@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeem)](https://github.com/cheeem/github-readme-stats)
 
 <!--
 **cheeem/cheeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
